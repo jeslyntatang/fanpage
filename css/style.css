@@ -4,7 +4,7 @@ html {
 
 body {
     height: 100%;
-    
+    background-color:#393A61;
 }
 a {
     text-decoration: none;
@@ -16,4 +16,8 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+
+p {
+    color:#E0B660;
 }
