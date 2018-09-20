@@ -5,9 +5,17 @@ html {
 body {
     height: 100%;
     background-color:#393A61;
+    color:white;
 }
 a {
     text-decoration: none;
+    color:#E3CF9F;
+    transition:0.5s;
+}
+
+a:hover {
+    color:white;
+    transition:0.5s;
 }
 
 .main {
@@ -20,4 +28,10 @@ a {
 
 p {
     color:#E0B660;
+}
+
+.rightPane img {
+    height:50%;
+    width:50%;
+    opacity:0.85;
 }
